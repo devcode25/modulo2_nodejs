@@ -1,4 +1,4 @@
-# semana2_logica_problemas
+# Módulo 2 - Conceito de Node e Tipos em Javascript
 
 # Hello Node.js
 
